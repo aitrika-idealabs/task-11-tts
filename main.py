@@ -348,7 +348,7 @@ text_input = st.text_area("", "Hello, welcome to VoicePersona!", height=150)
 st.markdown('</div>', unsafe_allow_html=True)
 
 # st.markdown('<div class="card-container">', unsafe_allow_html=True)
-st.markdown('<div class="section-header"> Choose a Voice Persona</div>', unsafe_allow_html=True)
+st.markdown('<div class="section-header"> Choose a Voice Sample</div>', unsafe_allow_html=True)
 selected_persona = st.selectbox("", list(VOICE_PERSONAS.keys()))
 st.markdown('</div>', unsafe_allow_html=True)
 
