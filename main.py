@@ -34,6 +34,11 @@ def apply_custom_css():
     st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+        html, body, [data-testid="stAppViewContainer"] {
+            background-color: #f8f8fb !important;
+            color: #2c3e50 !important;
+            font-family: 'Inter', sans-serif !important;
+        }
         .stApp { 
             background-color: #f8f8fb; 
             font-family: 'Inter', sans-serif; 
