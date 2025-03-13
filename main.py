@@ -344,7 +344,7 @@ st.markdown("""
 # Main Content in Card Containers
 # st.markdown('<div class="card-container">', unsafe_allow_html=True)
 st.markdown('<div class="section-header">✍️ Enter Your Text</div>', unsafe_allow_html=True)
-text_input = st.text_area("", "Hello, welcome to VoicePersona!", height=150)
+text_input = st.text_area("", "Hello, welcome to Text To Speech!", height=150)
 st.markdown('</div>', unsafe_allow_html=True)
 
 # st.markdown('<div class="card-container">', unsafe_allow_html=True)
