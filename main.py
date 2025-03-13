@@ -26,7 +26,7 @@ VOICE_PERSONAS = {
     "Playful Kid": {"voice_name": "en-US-Wavenet-H", "pitch": 1.5, "speaking_rate": 1.3},
     " Elderly Mentor": {"voice_name": "en-US-Wavenet-I", "pitch": -1.0, "speaking_rate": 0.8},
     " Radio DJ": {"voice_name": "en-US-Wavenet-J", "pitch": 0.7, "speaking_rate": 1.2},
-    "Relaxing Meditation Guide": {"voice_name": "en-US-Wavenet-K", "pitch": -0.8, "speaking_rate": 0.7},
+    "Relaxing Meditation Guide": {"voice_name": "en-US-Wavenet-E", "pitch": -0.8, "speaking_rate": 0.7},
 }
 
 # Apply enhanced CSS styling
